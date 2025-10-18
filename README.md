@@ -1,4 +1,4 @@
-# vibecoder-list
+# vibecoder-repo-list
 here is my full tech stack that i discovered while vibecoding
 
 > [!WARNING]  
