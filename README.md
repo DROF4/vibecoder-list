@@ -157,6 +157,7 @@ sendpulse, plunk (oss), loops.so
 --birden fazla smtp relay kullanarak kendi sunucunda mail gönderimi yaıplabilir. auth için bir tanesi ayrı kullanılabilir.
 Mxroute, zeptomail. Mailbaby
 Smtp self host-https://maddy.email/tutorials/setting-up/ önce 25 portu açık mı ona bak (nasıl ->https://www.codetinkerer.com/2024/02/10/how-to-host-your-transactional-email-for-free.html)
+-Inbox Zero - your 24/7 AI email assistant
 
 # llm entrgrasyon ve monitör uygulaması
 Langfuse(oss)
